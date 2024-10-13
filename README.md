@@ -7,7 +7,7 @@
 - 🎥 **Dual Camera Recording**: Capture both perspectives at once – no need to choose between what's in front of you and your reaction.
 - 🔄 **Seamless Switching**: Transition between cameras in real-time or combine both views for dynamic video storytelling.
 - ✂️ **Social Media Optimized**: Ideal for Instagram, TikTok, Facebook, and more – ready-made formats for your stories or posts!
-- 🌐 **Direct Sharing**: Post your videos straight to your social networks without leaving the app.
+- 🌐 **Direct Sharing**: Post your videos straight to your social networks in on click.
 - 🎨 **User-friendly Interface**: Easy to navigate, whether you're a seasoned content creator or a beginner.
 
 ## 💡 Why Smart Cam?
