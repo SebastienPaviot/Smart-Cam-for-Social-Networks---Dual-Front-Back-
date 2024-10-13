@@ -34,7 +34,7 @@ No downloads required! Visit [smartcamforsocialnetworks.com](https://smartcamfor
 
 ## 🛠️ Developer
 
-Created with love by Sebastien Paviot for social media creators everywhere.
+Created with love by Sebastien Paviot (with the help of AI :) ) for social media creators everywhere.
 
 Feel free to open an issue for suggestions, bugs, or feature requests.
 
